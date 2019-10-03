@@ -1,0 +1,15 @@
+asfinal.txt
+bnfinal.txt
+gufinal.txt
+hifinal.txt
+knfinal.txt
+kofinal.txt
+mlfinal.txt
+mrfinal.txt
+nefinal.txt
+orfinal.txt
+pafinal.txt
+safinal.txt
+scritpToCombine.sh
+tafinal.txt
+tefinal.txt
